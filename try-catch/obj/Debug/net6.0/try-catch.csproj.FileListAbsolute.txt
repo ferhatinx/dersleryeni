@@ -1,0 +1,15 @@
+E:\proje\anadersler\try-catch\bin\Debug\net6.0\try-catch.exe
+E:\proje\anadersler\try-catch\bin\Debug\net6.0\try-catch.deps.json
+E:\proje\anadersler\try-catch\bin\Debug\net6.0\try-catch.runtimeconfig.json
+E:\proje\anadersler\try-catch\bin\Debug\net6.0\try-catch.dll
+E:\proje\anadersler\try-catch\bin\Debug\net6.0\ref\try-catch.dll
+E:\proje\anadersler\try-catch\bin\Debug\net6.0\try-catch.pdb
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.csproj.AssemblyReference.cache
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.AssemblyInfoInputs.cache
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.AssemblyInfo.cs
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.dll
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\ref\try-catch.dll
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.pdb
+E:\proje\anadersler\try-catch\obj\Debug\net6.0\try-catch.genruntimeconfig.cache
