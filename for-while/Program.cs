@@ -11,15 +11,24 @@ namespace MyApp // Note: actual namespace depends on the project name.
             {
                if (i % 2 != 0)
                {
-                  System.Console.WriteLine(i);
+             (     System.Console.WriteLine(i);
                }
                else
                {
                    continue;
                 }
             }
-            
-        
+
+            int sayi = 5;
+            int sayac=1;
+            int toplam=0;
+            while (sayac<=sayi)
+
+            {
+                toplam+=sayac;
+                sayac++;    
+            }
+            System.Console.WriteLine(toplam/sayi);
         
         
         }
