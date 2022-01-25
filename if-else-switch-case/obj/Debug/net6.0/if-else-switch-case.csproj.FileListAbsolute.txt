@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\if-else-switch-case\bin\Debug\net6.0\if-else-switch-case.exe
+E:\proje\anadersler\dersleryeni\if-else-switch-case\bin\Debug\net6.0\if-else-switch-case.deps.json
+E:\proje\anadersler\dersleryeni\if-else-switch-case\bin\Debug\net6.0\if-else-switch-case.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\if-else-switch-case\bin\Debug\net6.0\if-else-switch-case.dll
+E:\proje\anadersler\dersleryeni\if-else-switch-case\bin\Debug\net6.0\ref\if-else-switch-case.dll
+E:\proje\anadersler\dersleryeni\if-else-switch-case\bin\Debug\net6.0\if-else-switch-case.pdb
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.dll
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\ref\if-else-switch-case.dll
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.pdb
+E:\proje\anadersler\dersleryeni\if-else-switch-case\obj\Debug\net6.0\if-else-switch-case.genruntimeconfig.cache
