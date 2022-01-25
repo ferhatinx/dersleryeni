@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\for-while\bin\Debug\net6.0\for-while.exe
+E:\proje\anadersler\dersleryeni\for-while\bin\Debug\net6.0\for-while.deps.json
+E:\proje\anadersler\dersleryeni\for-while\bin\Debug\net6.0\for-while.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\for-while\bin\Debug\net6.0\for-while.dll
+E:\proje\anadersler\dersleryeni\for-while\bin\Debug\net6.0\ref\for-while.dll
+E:\proje\anadersler\dersleryeni\for-while\bin\Debug\net6.0\for-while.pdb
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.dll
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\ref\for-while.dll
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.pdb
+E:\proje\anadersler\dersleryeni\for-while\obj\Debug\net6.0\for-while.genruntimeconfig.cache
