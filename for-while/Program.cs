@@ -30,7 +30,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
             System.Console.WriteLine(toplam/sayi);
         
-        
+            System.Console.WriteLine("*******foreach*******");
+            string[] arabalar = {"bmw","mercedes","ford"};
+            foreach (var i in arabalar)
+            {
+                System.Console.WriteLine(i);
+            }
         }
     }
 }
