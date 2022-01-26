@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\metotlar\bin\Debug\net6.0\metotlar.exe
+E:\proje\anadersler\dersleryeni\metotlar\bin\Debug\net6.0\metotlar.deps.json
+E:\proje\anadersler\dersleryeni\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\metotlar\bin\Debug\net6.0\metotlar.dll
+E:\proje\anadersler\dersleryeni\metotlar\bin\Debug\net6.0\ref\metotlar.dll
+E:\proje\anadersler\dersleryeni\metotlar\bin\Debug\net6.0\metotlar.pdb
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.dll
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\ref\metotlar.dll
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.pdb
+E:\proje\anadersler\dersleryeni\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
