@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\rekursifveextension\bin\Debug\net6.0\rekursifveextension.exe
+E:\proje\anadersler\dersleryeni\rekursifveextension\bin\Debug\net6.0\rekursifveextension.deps.json
+E:\proje\anadersler\dersleryeni\rekursifveextension\bin\Debug\net6.0\rekursifveextension.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\rekursifveextension\bin\Debug\net6.0\rekursifveextension.dll
+E:\proje\anadersler\dersleryeni\rekursifveextension\bin\Debug\net6.0\ref\rekursifveextension.dll
+E:\proje\anadersler\dersleryeni\rekursifveextension\bin\Debug\net6.0\rekursifveextension.pdb
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.dll
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\ref\rekursifveextension.dll
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.pdb
+E:\proje\anadersler\dersleryeni\rekursifveextension\obj\Debug\net6.0\rekursifveextension.genruntimeconfig.cache
