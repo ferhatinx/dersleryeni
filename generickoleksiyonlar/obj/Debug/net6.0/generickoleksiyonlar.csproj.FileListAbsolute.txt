@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\bin\Debug\net6.0\generickoleksiyonlar.exe
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\bin\Debug\net6.0\generickoleksiyonlar.deps.json
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\bin\Debug\net6.0\generickoleksiyonlar.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\bin\Debug\net6.0\generickoleksiyonlar.dll
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\bin\Debug\net6.0\ref\generickoleksiyonlar.dll
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\bin\Debug\net6.0\generickoleksiyonlar.pdb
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.dll
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\ref\generickoleksiyonlar.dll
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.pdb
+E:\proje\anadersler\dersleryeni\generickoleksiyonlar\obj\Debug\net6.0\generickoleksiyonlar.genruntimeconfig.cache
