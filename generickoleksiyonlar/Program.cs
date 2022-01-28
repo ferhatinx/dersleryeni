@@ -28,6 +28,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             //Eleman sayısı Count
 
             System.Console.WriteLine(sayi.Count);
+            sayi.Count();
 
             //foreach ile listforeach
             foreach (var item in sayi)
@@ -94,6 +95,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 System.Console.WriteLine("ad"+item.yas);
 
             }
+
 
 
 
