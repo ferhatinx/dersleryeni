@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\ArrayList\bin\Debug\net6.0\ArrayList.exe
+E:\proje\anadersler\dersleryeni\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+E:\proje\anadersler\dersleryeni\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\ArrayList\bin\Debug\net6.0\ArrayList.dll
+E:\proje\anadersler\dersleryeni\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+E:\proje\anadersler\dersleryeni\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.dll
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+E:\proje\anadersler\dersleryeni\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
