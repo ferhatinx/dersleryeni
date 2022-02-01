@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\bin\Debug\net6.0\encapsulationandproperty.exe
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\bin\Debug\net6.0\encapsulationandproperty.deps.json
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\bin\Debug\net6.0\encapsulationandproperty.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\bin\Debug\net6.0\encapsulationandproperty.dll
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\bin\Debug\net6.0\ref\encapsulationandproperty.dll
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\bin\Debug\net6.0\encapsulationandproperty.pdb
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.dll
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\ref\encapsulationandproperty.dll
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.pdb
+E:\proje\anadersler\dersleryeni\class\encapsulationandproperty\obj\Debug\net6.0\encapsulationandproperty.genruntimeconfig.cache
