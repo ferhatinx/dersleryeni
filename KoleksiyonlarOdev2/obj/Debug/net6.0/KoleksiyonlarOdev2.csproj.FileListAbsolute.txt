@@ -1,0 +1,15 @@
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\bin\Debug\net6.0\KoleksiyonlarOdev2.exe
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\bin\Debug\net6.0\KoleksiyonlarOdev2.deps.json
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\bin\Debug\net6.0\KoleksiyonlarOdev2.runtimeconfig.json
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\bin\Debug\net6.0\KoleksiyonlarOdev2.dll
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\bin\Debug\net6.0\ref\KoleksiyonlarOdev2.dll
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\bin\Debug\net6.0\KoleksiyonlarOdev2.pdb
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.csproj.AssemblyReference.cache
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.AssemblyInfoInputs.cache
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.AssemblyInfo.cs
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.dll
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\ref\KoleksiyonlarOdev2.dll
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.pdb
+E:\proje\anadersler\dersleryeni\KoleksiyonlarOdev2\obj\Debug\net6.0\KoleksiyonlarOdev2.genruntimeconfig.cache
